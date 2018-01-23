@@ -1,0 +1,29 @@
+cd Desktop
+cd DojoAssignments
+cd WebFundamentals
+md GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+copy nul readme.md
+git status
+git add .
+git commit -m "added explanation of folder to readme.md"
+disco /history
+doskey /history
+copy nul cd Desktop
+cd DojoAssignments
+cd WebFundamentals
+md GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+copy nul readme.md
+git status
+git add .
+git commit -m "added explanation of folder to readme.md"
+disco /history
+doskey /history
+cd..
+rd /s githubrepoassignment
+y
+copy nul githubrepoassignment.txt
+doskey /history
